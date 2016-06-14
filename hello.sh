@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'HELLO NTNU! And Trondheim!!!'
+echo 'Hello NTNU! And Trondheim!!!'
 
